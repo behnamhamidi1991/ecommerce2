@@ -1,7 +1,3 @@
 export default function Home() {
-  return (
-    <div className="flex justify-center mt-10">
-      <flyoutLink />
-    </div>
-  );
+  return <div className="flex justify-center mt-10">Hi</div>;
 }
