@@ -1,1 +1,0 @@
-import { MenuItems } from "./MenuItems";
