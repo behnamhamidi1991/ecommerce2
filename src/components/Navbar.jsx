@@ -5,7 +5,7 @@ import Dropdown from "./Dropdown";
 const Navbar = () => {
   const [openMenu, setOpenMenu] = useState(false);
 
-  const handleOpenMenu = (prev) => {
+  const handleOpenMenu = () => {
     if (openMenu === false) {
       setOpenMenu(true);
     } else {
